@@ -69,8 +69,8 @@ html {
   justify-content: center;
   position: relative;
   height: 628px;
-  color: white;
   align-items: center;
+  color: white;
 }
 #home ::before {
   content: "";
