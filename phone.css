@@ -1,0 +1,34 @@
+#navbar {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  top: 0px;
+}
+#navbar ul {
+  display: flex;
+  flex-direction: column;
+  font-family: "Baloo Bhai", cursive;
+}
+
+.services-container #services {
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  justify-content: center;
+}
+
+.services-container .h-primary {
+  text-align: center;
+  height: 141px;
+  font-size: 2.8rem;
+}
+
+.client-container .container {
+  border: 2px solid red;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+
+  justify-content: center;
+}
